@@ -1,2 +1,8 @@
-# Banking-System-Java-
-Ein einfaches Bankverwaltungssystem in Java, mit dem Benutzer Bankkonten erstellen, Einzahlungen und Abhebungen vornehmen und Kontoinformationen anzeigen können.
+# Bankverwaltungssystem
+
+Ein einfaches Java-Programm zur Verwaltung von Bankkonten. Nutzer können Konten erstellen, Geld einzahlen, abheben und Kontoinformationen einsehen.
+
+## Funktionen
+- Erstellen von neuen Bankkonten
+- Einzahlungen und Abhebungen
+- Anzeige von Kontoinformationen
